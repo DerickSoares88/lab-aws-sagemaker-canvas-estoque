@@ -12,6 +12,7 @@ Desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas
 
 -   Escolha do dataset que foi usado para treinar o modelo de previsão de estoque.
 -   Feito o upload do dataset no SageMaker Canvas.
+-   Dataset escolhido:1000 produtos com preços promocionais e renovação de estoque
 
 ### 2. Construir/Treinar
 
@@ -27,4 +28,6 @@ Desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas
 ### 4. Prever
 
 -   Modelo treinado para fazer previsões de estoque.
--   Exportado os resultados e analise das previsões geradas.
+-  Exportado os resultados e analise das previsões geradas.
+
+![imagem](datasets/Print-lab-sagemaker-canvas.png)
